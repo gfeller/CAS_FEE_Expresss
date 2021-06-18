@@ -15,7 +15,7 @@
     "apollo-server-express": "^2.9.14",
     "body-parser": "^1.19.0",
     "express": "^4.17.1",
-    "express-jwt": "^5.3.1",
+    "express-jwt": "^6.0.0",
     "jsonwebtoken": "^8.5.1",
     "nedb": "^1.8.0",
     "nedb-promise": "^2.0.1"
